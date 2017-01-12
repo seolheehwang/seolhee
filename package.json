@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/benhowell/react-grid-gallery.git"
+    "url": "https://github.com/seolheehwang/seolhee.git"
   },
   "keywords": [
     "react",
@@ -43,11 +43,5 @@
     "justified",
     "tags",
     "tagging"
-  ],
-  "author": "Ben Howell",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/benhowell/react-grid-gallery/issues"
-  },
-  "homepage": "https://benhowell.github.io/react-grid-gallery/"
+  ]
 }
